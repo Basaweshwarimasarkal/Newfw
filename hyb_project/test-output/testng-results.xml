@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-13T18:57:21 IST" name="Default suite" finished-at="2023-07-13T18:57:45 IST" duration-ms="24705">
+    <groups>
+    </groups>
+    <test started-at="2023-07-13T18:57:21 IST" name="Default test" finished-at="2023-07-13T18:57:45 IST" duration-ms="24705">
+      <class name="runner.Fb_run">
+        <test-method is-config="true" signature="Openapp()[pri:0, instance:runner.Fb_run@644baf4a]" started-at="2023-07-13T18:57:21 IST" name="Openapp" finished-at="2023-07-13T18:57:33 IST" duration-ms="12565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openapp -->
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:runner.Fb_run@644baf4a]" started-at="2023-07-13T18:57:33 IST" name="test" data-provider="testData" finished-at="2023-07-13T18:57:36 IST" duration-ms="3188" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[basava]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="Closeapp()[pri:0, instance:runner.Fb_run@644baf4a]" started-at="2023-07-13T18:57:36 IST" name="Closeapp" finished-at="2023-07-13T18:57:37 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closeapp -->
+        <test-method is-config="true" signature="Openapp()[pri:0, instance:runner.Fb_run@644baf4a]" started-at="2023-07-13T18:57:37 IST" name="Openapp" finished-at="2023-07-13T18:57:42 IST" duration-ms="4942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openapp -->
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:runner.Fb_run@644baf4a]" started-at="2023-07-13T18:57:42 IST" name="test" data-provider="testData" finished-at="2023-07-13T18:57:45 IST" duration-ms="3142" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[basava1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="Closeapp()[pri:0, instance:runner.Fb_run@644baf4a]" started-at="2023-07-13T18:57:45 IST" name="Closeapp" finished-at="2023-07-13T18:57:45 IST" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closeapp -->
+      </class> <!-- runner.Fb_run -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
